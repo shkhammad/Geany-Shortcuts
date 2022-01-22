@@ -1,0 +1,43 @@
+GEANY SHORTCUTS:
+
+1. Home - Start of the line
+
+2. End - End of the line
+
+3. Ctrl + l - go to the given line (enter line number)
+
+4. Ctrl + b - go to the matching brace
+
+5. Ctrl + / - go to the previous word part
+
+6. Ctrl + \ - go to the next word part
+
+7. Ctrl + pageDown - switch to the right document
+
+8. Ctrl + pageUp - switch to the left document
+
+9. Ctrl + -> zoom in
+
+10. Ctrl - -> zoom out
+
+11. F11 - fullscreen
+
+12. Ctrl + shift + c - copy current line 
+
+13. Ctrl + shift + x - cut current line 
+ 
+14. Ctrl + d - duplicate current line (or selection)
+
+15. Ctrl + k - delete current line (or multiple lines)
+
+16. Ctrl + n - new file
+
+17. Ctrl + o - open file
+
+18. Ctrl + tab - switched to the last used document
+
+19. Ctrl + w - close current file/tab 
+
+20. Ctrl + q - quit
+
+21. Ctrl + alt + p - preferences menu
